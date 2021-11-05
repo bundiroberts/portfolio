@@ -1,0 +1,59 @@
+body {
+    
+    background-attachment: fixed;
+    box-sizing:border-box;
+
+}
+.header {
+    background-color: black;
+    
+    margin: 5px;
+    padding:5px;
+    text-align: center;
+    color:whitesmoke;
+}
+
+.Nav {
+     overflow: hidden;
+     background-color: black;
+     
+     
+}
+.Nav a {
+    background-color: black;
+    text-align: center;
+    display: inline-block;
+    padding:15px;
+    margin:5px;
+    text-decoration: none;
+    color:whitesmoke;
+}
+.Nav a:hover {
+     color: red;
+}
+.row:after {
+    content: "";
+    display:table;
+    clear:both;
+}
+  
+  .column.right {
+      float:right;
+      width:30%;
+      color:black;
+      font-family: fantasy;
+  }
+    
+        
+    .column.left {
+        float:left;
+        width:30%;
+        color:black;
+        position:fixed;
+    }
+    .button {
+        bottom:0;
+        position:fixed;
+        background-color:black;
+        color:blanchedalmond;
+    }
