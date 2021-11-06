@@ -54,6 +54,7 @@ body {
         background-color:black;
         color:blanchedalmond;
     }
+    
       
     @media screen and (max-width:600px) {
         .column.left,.column.right {
