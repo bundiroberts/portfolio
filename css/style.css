@@ -39,17 +39,17 @@ body {
   
   .column.right {
       float:right;
-      width:30.33%;
+      width:25.33%;
       color:black;
       font-family: fantasy;
 
   }
   .column.left {
-      width: 25.33%;
+      width: 30.33%;
   }
 
     .button {
-        bottom:0;
+       
         position:fixed;
         background-color:black;
         color:blanchedalmond;
