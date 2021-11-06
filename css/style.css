@@ -39,22 +39,24 @@ body {
   
   .column.right {
       float:right;
-      width:50%;
+      width:30.33%;
       color:black;
       font-family: fantasy;
+
+  }
+  .column.left {
+      width: 25.33%;
   }
 
-    
-        
-    .column.left {
-        float:left;
-        width:50%;
-        color:black;
-        position:fixed;
-    }
     .button {
         bottom:0;
         position:fixed;
         background-color:black;
         color:blanchedalmond;
+    }
+      
+    @media screen and (max-width:600px) {
+        .column.left,.column.right {
+            width:100%
+        }
     }
