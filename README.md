@@ -5,6 +5,8 @@ bundiroberts
 clone the project
 cd into the project folder
 Go to live server
+#Live link
+https://bundiroberts.github.io/purple/
 
 #Languages Used
  HTML
