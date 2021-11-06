@@ -39,15 +39,16 @@ body {
   
   .column.right {
       float:right;
-      width:20%;
+      width:50%;
       color:black;
       font-family: fantasy;
   }
+
     
         
     .column.left {
         float:left;
-        width:30%;
+        width:50%;
         color:black;
         position:fixed;
     }
