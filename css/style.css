@@ -42,11 +42,13 @@ body {
       width:25.33%;
       color:black;
       font-family: fantasy;
+ 
+      
 
   }
   .column.left {
       width: 30.33%;
-      margin:15px;
+      margin:5px;
       font-family:fantasy;
   }
 
